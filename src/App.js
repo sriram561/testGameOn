@@ -36,7 +36,7 @@ function App() {
     });
   });
   return (
-    <Router>
+    <Router basename="/testGameOn">
       <div className="App">
         <div className="auth-wrapper">
           <div className="auth-inner">
