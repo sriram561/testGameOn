@@ -7,7 +7,7 @@ const redirectRegister = () => {
     window.location.href = "/#/register";
 }
 const redirectLogin = () => {
-    window.location.href = "/#/login";
+    window.location.href = "/testGameon/#/login";
 }
 const redirectMain = () => {
     window.location.href = "/#/";
