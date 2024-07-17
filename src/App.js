@@ -42,7 +42,7 @@ function App() {
           <div className="auth-inner">
             <Routes>
               <Route
-                path="/testGameOn/"
+                path="/"
                 element={
                   // user ? <Dashboard /> : <Main />
                   <Main />
