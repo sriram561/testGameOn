@@ -227,7 +227,7 @@ function WriteExam({ onObtainedMarks, onModalVisibilityChange, gameScore, perQue
     setViewSet("result");
     setTimeout(() => {
       setShowModal(false);
-      window.location.href = "/home";
+      window.location.href = "/#/home";
     }, 15000);
   };
 

@@ -242,7 +242,7 @@ export default function Game2048() {
   }, []);
 
   const redirectMain = () => {
-    window.location.href = "/home";
+    window.location.href = "/#/home";
   };
   
 

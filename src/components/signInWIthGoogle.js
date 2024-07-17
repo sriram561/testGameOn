@@ -40,7 +40,7 @@ function SignInwithGoogle() {
           position: "top-center",
         });
 
-        window.location.href = "/home";
+        window.location.href = "/#/home";
       }
     } catch (error) {
       console.error("Error signing in with Google:", error);

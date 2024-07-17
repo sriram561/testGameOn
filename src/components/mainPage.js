@@ -4,13 +4,13 @@ import Header from "./header/Header";
 
 function Main() {
 const redirectRegister = () => {
-    window.location.href = "/testGameOn/register";
+    window.location.href = "/#/register";
 }
 const redirectLogin = () => {
-    window.location.href = "/testGameOn/login";
+    window.location.href = "/#/login";
 }
 const redirectMain = () => {
-    window.location.href = "/";
+    window.location.href = "/#/";
 }
 
   return (

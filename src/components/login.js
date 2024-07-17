@@ -21,7 +21,7 @@ function Login() {
         position: "top-center",
       });
       setTimeout(() => {
-        window.location.href = "/home";
+        window.location.href = "/#/home";
       }, 1000);
     } catch (error) {
       toast.error("Error occured in User login", {

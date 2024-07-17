@@ -1,5 +1,5 @@
 {
-  "homepage": "https://sriram561.github.io/testGameOn/#",
+  "homepage": "https://sriram561.github.io/testGameOn/",
   "name": "react-login-signup-ui-template",
   "version": "0.1.0",
   "private": true,
@@ -19,6 +19,7 @@
     "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.1",
     "react-toastify": "^10.0.5",
+    "serve": "^14.2.3",
     "use-sound": "^4.0.1",
     "web-vitals": "^2.1.4"
   },

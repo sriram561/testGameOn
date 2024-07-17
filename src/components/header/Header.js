@@ -3,11 +3,11 @@ import styles from "./header.module.css";
 
 function Header() {
   const redirectRegister = () => {
-    window.location.href = "/register";
+    window.location.href = "/#/register";
   };
 
   const redirectLogin = () => {
-    window.location.href = "/login";
+    window.location.href = "/#/login";
   };
 
   const redirectMain = () => {

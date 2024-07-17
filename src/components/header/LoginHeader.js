@@ -4,17 +4,17 @@ import { auth } from "../firebase";
 
 function LoginHeader({height}) {
   const redirectMain = () => {
-    window.location.href = "/home";
+    window.location.href = "/#/home";
   };
   const redirectLogout = () => {
     window.location.href = "/";
   };
   const redirectProgress = () => {
-    window.location.href = "/progress";
+    window.location.href = "/#/progress";
   };
 
   const redirectProfile = () => {
-    window.location.href = "/profile";
+    window.location.href = "/#/profile";
   };
   const handleLogout = async () => {
     try {

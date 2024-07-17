@@ -48,19 +48,19 @@ function App() {
                   <Main />
                 }
               />
-              <Route path="/testGameOn/home" element={<Dashboard />} />
-              {/* <Route path="/testGameOn/quiz" element={<Quiz />} /> */}
-              <Route path="/testGameOn/login" element={<Login />} />
-              <Route path="/testGameOn/progress" element={<Progress />} />
-              <Route path="/testGameOn/register" element={<SignUp />} />
-              <Route path="/testGameOn/profile" element={<Profile />} />
-              <Route path="/testGameOn/tic-tac-toe" element={<TicTacToe />} />
-              <Route path="/testGameOn/bricks-mania" element={<BrickBreaker />} />
-              <Route path="/testGameOn/slidding-puzzle" element={<SlidingPuzzle />} />
-              <Route path="/testGameOn/statistics" element={<Statistics />} />
-              <Route path="/testGameOn/2048-game" element={<Game2048 />} />
-              <Route path="/testGameOn/forgotPassword" element={<ForgotPassword />} />
-              <Route path="/testGameOn/resetPassword" element={<ResetPassword />} />
+              <Route path="/home" element={<Dashboard />} />
+              {/* <Route path="/quiz" element={<Quiz />} /> */}
+              <Route path="/login" element={<Login />} />
+              <Route path="/progress" element={<Progress />} />
+              <Route path="/register" element={<SignUp />} />
+              <Route path="/profile" element={<Profile />} />
+              <Route path="/tic-tac-toe" element={<TicTacToe />} />
+              <Route path="/bricks-mania" element={<BrickBreaker />} />
+              <Route path="/slidding-puzzle" element={<SlidingPuzzle />} />
+              <Route path="/statistics" element={<Statistics />} />
+              <Route path="/2048-game" element={<Game2048 />} />
+              <Route path="/forgotPassword" element={<ForgotPassword />} />
+              <Route path="/resetPassword" element={<ResetPassword />} />
             </Routes>
             <ToastContainer />
           </div>

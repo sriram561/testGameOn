@@ -57,7 +57,7 @@ function WriteExam({ onObtainedMarks, gameScore, perQue, onNextQuestion, onModal
     setViewSet("result");
     setTimeout(() => {
       onModalVisibilityChange(false); // Use onModalVisibilityChange to control modal visibility
-      window.location.href = "/home";
+      window.location.href = "/#/home";
     }, 15000);
   };
 
