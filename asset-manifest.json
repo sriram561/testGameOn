@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/testGameOn/static/css/main.ce8d759c.css",
-    "main.js": "/testGameOn/static/js/main.2da04327.js",
+    "main.js": "/testGameOn/static/js/main.19b51630.js",
     "static/js/845.febf9236.chunk.js": "/testGameOn/static/js/845.febf9236.chunk.js",
     "static/js/787.1257cef4.chunk.js": "/testGameOn/static/js/787.1257cef4.chunk.js",
     "static/media/mainBG.png": "/testGameOn/static/media/mainBG.535e270c96006fb66b21.png",
@@ -20,12 +20,12 @@
     "static/media/google.png": "/testGameOn/static/media/google.69be400a76cb06e826fe.png",
     "index.html": "/testGameOn/index.html",
     "main.ce8d759c.css.map": "/testGameOn/static/css/main.ce8d759c.css.map",
-    "main.2da04327.js.map": "/testGameOn/static/js/main.2da04327.js.map",
+    "main.19b51630.js.map": "/testGameOn/static/js/main.19b51630.js.map",
     "845.febf9236.chunk.js.map": "/testGameOn/static/js/845.febf9236.chunk.js.map",
     "787.1257cef4.chunk.js.map": "/testGameOn/static/js/787.1257cef4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ce8d759c.css",
-    "static/js/main.2da04327.js"
+    "static/js/main.19b51630.js"
   ]
 }
